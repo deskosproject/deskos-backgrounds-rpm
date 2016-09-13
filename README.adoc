@@ -1,0 +1,3 @@
+= DeskOS: deskos-backgrounds RPM
+
+This is the _deskos-backgrounds_ RPM package for the *DeskOS* operating system.
