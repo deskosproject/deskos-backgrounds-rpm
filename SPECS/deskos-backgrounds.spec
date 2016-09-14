@@ -1,6 +1,6 @@
 Name:           deskos-backgrounds
 Version:        1.0.0
-Release:        1
+Release:        1%{?dist}
 Summary:        DeskOS default desktop background
 
 License:        CC-BY-SA
